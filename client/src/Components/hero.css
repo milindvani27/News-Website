@@ -1,0 +1,18 @@
+.card-main {
+    background-color: #dee2e6;
+    align-content: center;
+    top:10%;
+    height: 25vh; 
+}
+
+.card-h1 {
+    font-size: 45px;
+    color: orange;
+    margin-left: 38rem;
+    margin-top: 0%;
+    top: 5%
+
+}
+.card-h5 {
+    margin-left: 33rem;
+}

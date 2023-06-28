@@ -1,0 +1,29 @@
+.card-ul {
+    list-style-type: none;
+    margin: -2;
+    padding: 0rem;
+    overflow: hidden;
+    background-color: #343a40;
+  }
+  
+  .card-li {
+    float: left;
+  }
+  
+  .card-li ,  .card-a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 7px 4px 10px;
+    text-decoration: none;
+  }
+  
+  .aa {
+   float: right;
+  }
+
+  .card-li :hover{
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+  }

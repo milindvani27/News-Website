@@ -1,0 +1,23 @@
+.user-btns {
+    float: right;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    padding: 30px;
+  }
+
+.editBtn{
+    margin-right: 10px;
+}
+
+.editBtn > a{
+    color: white;
+    text-decoration: none;
+}
+
+
+#para {
+    height: 100px;
+    
+    overflow:auto;
+} 
